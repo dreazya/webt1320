@@ -1,7 +1,5 @@
-## Welcome to GitHub Pages
+## WEBT 1320 Project Page
 
-## webt1320
+<h1>Project list<h1>
 
-<H1>Project list<h1>
-
-<a href="""project1/index.html" target=""_blank">Project 1</a>
+<a href="project1/index.html" target="_blank">Project 1</a>
